@@ -40,7 +40,7 @@ The demonstration introduces the application workflow and the cross-hospital pat
 - **Limit displayed results:** show matching institutions rather than another hospital's complete patient information.
 - **Perform administrative tasks:** access user-management functionality through an administrator dashboard.
 
-## What Makes It Technically Interesting
+## Technical Highlights 
 
 ### 1. A custom PSI-inspired matching workflow
 
